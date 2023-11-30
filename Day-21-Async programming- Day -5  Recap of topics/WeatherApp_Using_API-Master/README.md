@@ -4,7 +4,7 @@
 
 <a href="https://weather-app-using-api-sk7.netlify.app/">Deployed in Netlify</a>
 
-<a href="https://suriya-k7.github.io/WeatherApp_using_API/">Deployed in Github.io</a>
+Deployed in Github.io
 
 <i>for testing purpose, please mention below places to see result</i>
 
