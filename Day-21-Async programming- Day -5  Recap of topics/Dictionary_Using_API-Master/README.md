@@ -6,7 +6,7 @@
 
 <a href="https://dictionary-app-api-sk7.netlify.app/">Deployed in Netlify</a>
 
-<a href="https://suriya-k7.github.io/Dictionary_using_API/">Deployed in Github.io</a>
+Deployed in Github.io
 
 <i>for testing purpose, search below text for results</i>
 
