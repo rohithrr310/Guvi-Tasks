@@ -8,7 +8,7 @@
 
 <a href="https://country-fetch-api.netlify.app/">Deployed in Netlify</a>
 
-<a href="https://suriya-k7.github.io/Country_Fetch_API_Temp/">Deployed in Github.io</a>
+Deployed in Github.io
 
 <i>Note: As mentioned in Constraints , all html element created throught DOM & styling through Bootstrap. And data fetched through Rest country API & openweathermap.org.</i>
 
